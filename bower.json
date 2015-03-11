@@ -1,0 +1,24 @@
+{
+  "name": "demoresponsive",
+  "version": "0.0.1",
+  "authors": [
+    "Jesu Marquez <jesumarquez@gmail.com>"
+  ],
+  "description": "demo responsive",
+  "main": "index.html",
+  "keywords": [
+    "demo",
+    "responsive"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.2"
+  }
+}
