@@ -1,0 +1,12 @@
+{
+  "name": "demoyoutubedownload",
+  "version": "0.0.1",
+  "description": "youtube download",
+  "main": "server.js",
+  "repository": "",
+  "author": "Jesu Marquez <jesumarquez@gmail.com>",
+  "dependencies": {
+    "express": "^4.12.3",
+    "ytdl-core": "^0.5.0"
+  }
+}
